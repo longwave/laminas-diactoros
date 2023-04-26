@@ -99,6 +99,6 @@
         "static-analysis": "psalm --shepherd --stats"
     },
     "replace": {
-        "laminas/laminas-diactoros": "^2.14.0"
+        "laminas/laminas-diactoros": "2.18.1"
     }
 }
